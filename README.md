@@ -97,26 +97,6 @@ Entregue um arquivo em formato `.txt`, `.md` ou `.pdf` contendo:
 
 ---
 
-## ⚙️ Critérios de Avaliação
-
-| Critério | Descrição | Peso |
-|----------|------------|------|
-| **Interpretação da documentação** | Capacidade de localizar e entender o endpoint correto. | 30% |
-| **Estruturação da requisição** | Correção e clareza na definição de verbo, URL, headers e body. | 40% |
-| **Clareza e organização da resposta** | Entrega limpa, formatada e de fácil leitura. | 20% |
-| **Atenção a detalhes** | JSON válido, parâmetros corretos, coerência com o exemplo. | 10% |
-
----
-
-## 📈 Nível de Dificuldade
-**Nível:** Estagiário / Júnior (💡)  
-**Tempo estimado:** 30 a 45 minutos.  
-
-O teste é acessível, mas exige atenção e curiosidade para consultar a documentação da API OMIE.  
-O exemplo resolvido serve como guia — o desafio está em adaptar a mesma lógica para outro método da API.
-
----
-
 ## 💬 Resumo
 Este teste avalia se o candidato:
 
