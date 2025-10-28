@@ -46,14 +46,13 @@ Content-Type: application/json
   "app_secret": "teste",
   "param": [
     {
-      "conta_receber": {
-        "codigo_cliente_omie": "12345",
-        "codigo_lancamento_integracao": "001",
-        "data_vencimento": "2025-11-10",
-        "valor_documento": 1500.00,
-        "codigo_categoria": "1.01.02",
-        "observacao": "Conta a receber criada via teste prático"
-      }
+      "codigo_lancamento_integracao": "1761667332",
+      "codigo_cliente_fornecedor": 4214850,
+      "data_vencimento": "28/10/2025",
+      "valor_documento": 100,
+      "codigo_categoria": "1.01.02",
+      "data_previsao": "28/10/2025",
+      "id_conta_corrente": 4243124
     }
   ]
 }
