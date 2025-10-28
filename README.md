@@ -92,12 +92,12 @@ Entregue um arquivo em formato `.txt`, `.md` ou `.pdf` contendo:
 
 - A requisição completa (URL, verbo, headers e body em JSON);  
 - Uma breve explicação sobre o que ela faz;  
-- (Opcional) Caso deseje, pode demonstrar o teste no **Postman** ou via **cURL** e anexar prints ou comandos.
+- (Opcional) Caso deseje, pode demonstrar a montagem no **Postman** ou via **cURL** e anexar prints ou comandos.
 
 ---
 
 ## 💬 Resumo
-Este teste avalia se o candidato:
+Este teste tem como objetivo avaliar se o candidato:
 
 - Entende a estrutura de uma requisição HTTP (verbo, headers, body, endpoint);  
 - Consegue ler e adaptar um exemplo prático;  
